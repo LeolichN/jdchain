@@ -1,31 +1,31 @@
 [submodule "explorer"]
 	path = explorer
-	url = git@github.com:blockchain-jd-com/explorer.git
+	url = https://github.com/LeolichN/explorer.git
 [submodule "libs/bft-smart"]
 	path = libs/bft-smart
-	url = git@github.com:blockchain-jd-com/bftsmart.git
+	url = https://github.com/LeolichN/bftsmart.git
 [submodule "project"]
 	path = project
-	url = git@github.com:blockchain-jd-com/jdchain-project.git
+	url = https://github.com/LeolichN/jdchain-project.git
 [submodule "framework"]
 	path = framework
-	url = git@github.com:blockchain-jd-com/jdchain-framework.git
+	url = https://github.com/LeolichN/jdchain-framework.git
 [submodule "core"]
 	path = core
-	url = git@github.com:blockchain-jd-com/jdchain-core.git
+	url = https://github.com/LeolichN/jdchain-core.git
 [submodule "test"]
 	path = test
-	url = git@github.com:blockchain-jd-com/jdchain-test.git
+	url = https://github.com/LeolichN/jdchain-test.git
 [submodule "libs/kvdb"]
 	path = libs/kvdb
-	url = git@github.com:blockchain-jd-com/jdchain-kvdb.git 
+	url = https://github.com/LeolichN/jdchain-kvdb.git
 
 [submodule "libs/binary-proto"]
 	path = libs/binary-proto
-	url = git@github.com:blockchain-jd-com/binary-proto.git
+	url = https://github.com/LeolichN/binary-proto.git
 [submodule "libs/utils"]
 	path = libs/utils
-	url = git@github.com:blockchain-jd-com/utils.git
+	url = https://github.com/LeolichN/utils.git
 [submodule "libs/httpservice"]
 	path = libs/httpservice
-	url = git@github.com:blockchain-jd-com/httpservice.git
+	url = https://github.com/LeolichN/httpservice.git
