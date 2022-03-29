@@ -1,31 +1,31 @@
 [submodule "explorer"]
 	path = explorer
-	url = https://github.com/LeolichN/explorer.git
+	url = git@github.com:LeolichN/explorer.git
 [submodule "libs/bft-smart"]
 	path = libs/bft-smart
-	url = https://github.com/LeolichN/bftsmart.git
+	url = git@github.com:LeolichN/bftsmart.git
 [submodule "project"]
 	path = project
-	url = https://github.com/LeolichN/jdchain-project.git
+	url = git@github.com:LeolichN/jdchain-project.git
 [submodule "framework"]
 	path = framework
-	url = https://github.com/LeolichN/jdchain-framework.git
+	url = git@github.com:LeolichN/jdchain-framework.git
 [submodule "core"]
 	path = core
-	url = https://github.com/LeolichN/jdchain-core.git
+	url = git@github.com:LeolichN/jdchain-core.git
 [submodule "test"]
 	path = test
-	url = https://github.com/LeolichN/jdchain-test.git
+	url = git@github.com:LeolichN/jdchain-test.git
 [submodule "libs/kvdb"]
 	path = libs/kvdb
-	url = https://github.com/LeolichN/jdchain-kvdb.git
+	url = git@github.com:LeolichN/jdchain-kvdb.git
 
 [submodule "libs/binary-proto"]
 	path = libs/binary-proto
-	url = https://github.com/LeolichN/binary-proto.git
+	url = git@github.com:LeolichN/binary-proto.git
 [submodule "libs/utils"]
 	path = libs/utils
-	url = https://github.com/LeolichN/utils.git
+	url = git@github.com:LeolichN/utils.git
 [submodule "libs/httpservice"]
 	path = libs/httpservice
-	url = https://github.com/LeolichN/httpservice.git
+	url = git@github.com:LeolichN/httpservice.git
