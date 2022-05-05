@@ -13,6 +13,7 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:LeolichN/jdchain-core.git
+	branch=chemaleonHash
 [submodule "test"]
 	path = test
 	url = git@github.com:LeolichN/jdchain-test.git
@@ -26,6 +27,7 @@
 [submodule "libs/utils"]
 	path = libs/utils
 	url = git@github.com:LeolichN/utils.git
+	branch=chemaleonHash
 [submodule "libs/httpservice"]
 	path = libs/httpservice
 	url = git@github.com:LeolichN/httpservice.git
