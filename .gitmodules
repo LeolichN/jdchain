@@ -10,6 +10,7 @@
 [submodule "framework"]
 	path = framework
 	url = git@github.com:LeolichN/jdchain-framework.git
+	branch=chameleonHash
 [submodule "core"]
 	path = core
 	url = git@github.com:LeolichN/jdchain-core.git
