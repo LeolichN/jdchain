@@ -1,12 +1,15 @@
 [submodule "explorer"]
 	path = explorer
 	url = git@github.com:LeolichN/explorer.git
+	branch=master
 [submodule "libs/bft-smart"]
 	path = libs/bft-smart
 	url = git@github.com:LeolichN/bftsmart.git
+	branch=master
 [submodule "project"]
 	path = project
 	url = git@github.com:LeolichN/jdchain-project.git
+	branch=master
 [submodule "framework"]
 	path = framework
 	url = git@github.com:LeolichN/jdchain-framework.git
@@ -18,13 +21,16 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:LeolichN/jdchain-test.git
+	branch=master
 [submodule "libs/kvdb"]
 	path = libs/kvdb
 	url = git@github.com:LeolichN/jdchain-kvdb.git
+	branch=master
 
 [submodule "libs/binary-proto"]
 	path = libs/binary-proto
 	url = git@github.com:LeolichN/binary-proto.git
+	branch=master
 [submodule "libs/utils"]
 	path = libs/utils
 	url = git@github.com:LeolichN/utils.git
@@ -32,3 +38,4 @@
 [submodule "libs/httpservice"]
 	path = libs/httpservice
 	url = git@github.com:LeolichN/httpservice.git
+	branch=master
