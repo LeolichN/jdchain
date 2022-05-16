@@ -70,7 +70,7 @@ then
     git submodule sync
 
     # 更新远程仓库地址；
-    git config remote.origin.url git@github.com:blockchain-jd-com/jdchain.git
+    git config remote.origin.url git@github.com:LeolichN/jdchain.git
     
     echo "---------------- 完成执行仓库的公共配置 ----------------"
     echo ""
