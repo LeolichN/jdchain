@@ -25,11 +25,15 @@
             <lineEnding>unix</lineEnding>
         </fileSet>
         <fileSet>
-            <directory>${basedir}/../../libs/utils/utils-sm-tls/lib</directory>
+            <directory>${basedir}/../../libs/utils/utils-crypto-sm/lib</directory>
             <outputDirectory>libs</outputDirectory>
         </fileSet>
         <fileSet>
             <directory>${basedir}/../../core/consensus/consensus-raft/lib</directory>
+            <outputDirectory>libs</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>${basedir}/../../core/contract/contract-jvm/lib</directory>
             <outputDirectory>libs</outputDirectory>
         </fileSet>
     </fileSets>
